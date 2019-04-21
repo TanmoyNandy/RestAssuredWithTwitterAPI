@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22900" started-at="2019-04-21T15:23:53Z" finished-at="2019-04-21T15:24:16Z">
+    <groups>
+      <group name="demo">
+        <method signature="Tests.getStatusFromHomeTimeline()[pri:0, instance:testCases.Tests@589838eb]" name="getStatusFromHomeTimeline" class="testCases.Tests"/>
+      </group> <!-- demo -->
+    </groups>
+    <test name="Default test" duration-ms="22900" started-at="2019-04-21T15:23:53Z" finished-at="2019-04-21T15:24:16Z">
+      <class name="testCases.Tests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.Tests@589838eb]" name="setup" is-config="true" duration-ms="41" started-at="2019-04-21T15:23:53Z" finished-at="2019-04-21T15:23:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getStatusFromHomeTimeline()[pri:0, instance:testCases.Tests@589838eb]" name="getStatusFromHomeTimeline" duration-ms="12999" started-at="2019-04-21T15:23:53Z" finished-at="2019-04-21T15:24:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatusFromHomeTimeline -->
+        <test-method status="PASS" signature="postATweet()[pri:1, instance:testCases.Tests@589838eb]" name="postATweet" duration-ms="2247" started-at="2019-04-21T15:24:06Z" finished-at="2019-04-21T15:24:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postATweet -->
+        <test-method status="PASS" signature="deleteATweet()[pri:2, instance:testCases.Tests@589838eb]" name="deleteATweet" duration-ms="2330" started-at="2019-04-21T15:24:08Z" finished-at="2019-04-21T15:24:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteATweet -->
+        <test-method status="PASS" signature="postWelcomeMessage()[pri:3, instance:testCases.Tests@589838eb]" name="postWelcomeMessage" duration-ms="3507" started-at="2019-04-21T15:24:11Z" finished-at="2019-04-21T15:24:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postWelcomeMessage -->
+        <test-method status="PASS" signature="deleteWelcomeMessage()[pri:4, instance:testCases.Tests@589838eb]" name="deleteWelcomeMessage" duration-ms="1687" started-at="2019-04-21T15:24:14Z" finished-at="2019-04-21T15:24:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteWelcomeMessage -->
+      </class> <!-- testCases.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
