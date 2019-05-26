@@ -1,0 +1,8 @@
+18:14:48.338 [main] ERROR testCases.MainClass - Object is not present
+18:14:48.348 [main] FATAL testCases.MainClass - This is fatal
+18:17:53.967 [main] DEBUG testCases.MainClass - I am debugging
+18:17:53.976 [main] INFO  testCases.MainClass - Object is present
+18:17:53.976 [main] ERROR testCases.MainClass - Object is not present
+18:17:53.977 [main] FATAL testCases.MainClass - This is fatal
+18:18:31.499 [main] DEBUG testCases.MainClass - I am debugging
+18:18:31.507 [main] INFO  testCases.MainClass - Object is present

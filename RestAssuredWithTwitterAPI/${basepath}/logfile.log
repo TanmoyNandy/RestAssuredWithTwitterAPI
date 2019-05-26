@@ -1,0 +1,4 @@
+18:08:52.526 [main] ERROR testCases.MainClass - Object is not present
+18:08:52.535 [main] FATAL testCases.MainClass - This is fatal
+18:11:52.265 [main] ERROR testCases.MainClass - Object is not present
+18:11:52.288 [main] FATAL testCases.MainClass - This is fatal

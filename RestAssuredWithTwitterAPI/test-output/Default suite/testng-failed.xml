@@ -5,7 +5,7 @@
     <classes>
       <class name="testCases.Tests">
         <methods>
-          <include name="deleteWelcomeMessage"/>
+          <include name="getStatusFromHomeTimeline"/>
           <include name="setup"/>
         </methods>
       </class> <!-- testCases.Tests -->
